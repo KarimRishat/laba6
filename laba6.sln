@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pivo", "Pivo\Pivo.csproj", "{9EDFA0DA-1A09-4DD3-B035-8A3B5449C5D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodichka", "Metodichka\Metodichka.csproj", "{6919EC5D-2120-4CAB-94E8-AB78E4BB6025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EDFA0DA-1A09-4DD3-B035-8A3B5449C5D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDFA0DA-1A09-4DD3-B035-8A3B5449C5D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDFA0DA-1A09-4DD3-B035-8A3B5449C5D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDFA0DA-1A09-4DD3-B035-8A3B5449C5D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6919EC5D-2120-4CAB-94E8-AB78E4BB6025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6919EC5D-2120-4CAB-94E8-AB78E4BB6025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6919EC5D-2120-4CAB-94E8-AB78E4BB6025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6919EC5D-2120-4CAB-94E8-AB78E4BB6025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE7D49A-717F-4946-981F-36111C032D9A}
+	EndGlobalSection
+EndGlobal
